@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/off-campus/static/js/main.a92a1fce.js",
+    "static/media/bh5.jpg": "/off-campus/static/media/bh5.bd72ea94eb657a8cf6e8.jpg",
+    "static/media/bh3.png": "/off-campus/static/media/bh3.d64b260e10f1703a1750.png",
+    "static/media/bh7.jpg": "/off-campus/static/media/bh7.6f218dd0cd4698614ab0.jpg",
+    "static/media/flags.svg": "/off-campus/static/media/flags.95d19e0c3c439889041b7157fd05563b.svg",
+    "static/media/apartments.svg": "/off-campus/static/media/apartments.a42bd07dd2fce03b9ef015592cab347d.svg",
+    "static/media/bh2.jpg": "/off-campus/static/media/bh2.8ad5648b0403470c93e1.jpg",
+    "static/media/bh6.jpeg": "/off-campus/static/media/bh6.ca8fafbe7f81127c2cb2.jpeg",
+    "static/media/bh1.jpeg": "/off-campus/static/media/bh1.e47f58ec12aa096191d9.jpeg",
+    "static/media/bh4.jpeg": "/off-campus/static/media/bh4.0630275eff4f6f999edd.jpeg",
+    "static/media/home.svg": "/off-campus/static/media/home.853d52ab4334ecf8059ec5cc5485993c.svg",
+    "index.html": "/off-campus/index.html",
+    "main.a92a1fce.js.map": "/off-campus/static/js/main.a92a1fce.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a92a1fce.js"
+  ]
+}
