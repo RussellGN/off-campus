@@ -47,7 +47,7 @@ function Footer  () {
 			<Box
 				sx={{
 					mt: 2,
-					display: "flex",
+					display: "none",
 					justifyContent: "space-between",
 					alignItems: "center",
 				}}
