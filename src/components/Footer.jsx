@@ -52,7 +52,7 @@ function Footer  () {
 					alignItems: "center",
 				}}
 			>
-				<Typography variant="body2">
+				<Typography variant="body2" sx={{display: "none"}}>
 					All Rights Reserved. Developed By
 					<MuiLink
 						underline="none"
