@@ -47,12 +47,12 @@ function Footer  () {
 			<Box
 				sx={{
 					mt: 2,
-					display: "none",
+					display: "flex",
 					justifyContent: "space-between",
 					alignItems: "center",
 				}}
 			>
-				<Typography variant="body2" sx={{display: "none"}}>
+				<Typography variant="body2">
 					All Rights Reserved. Developed By
 					<MuiLink
 						underline="none"
